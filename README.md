@@ -5,5 +5,5 @@ Pengumpulan Tugas Praktikum:
 
 | No  | Tgl  | Praktikum ke  | Topik  |  Laporan |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|  1 |  |   | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan] |
+|  1 | 04 September 2025 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan](https://drive.google.com/file/d/1citPq9X9wfTczttPtXkRLDN7H9DV4-jL/view?usp=sharing) |
 |  2 |  |  | Pengenalan Mobile Programming dan Setup Lingkungan  | [laporan]  |
