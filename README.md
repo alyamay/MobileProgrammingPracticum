@@ -9,3 +9,5 @@ Pengumpulan Tugas Praktikum:
 |  2 | 04 September 2025 | 01 | Widget Row dan Column  | [laporan 2](https://drive.google.com/file/d/1huBFnO-2LyFqSaKfecw5BaplTslsNc4J/view?usp=sharing)  |
 |  3 | 11 September 2025 | 02 | Pengaturan Layout Row dan Column di Flutter | [laporan 3](https://drive.google.com/file/d/1sVwyOCRaRORLAYQrxiUN5ZeSAf9gZ-h4/view?usp=sharing)  |
 |  4 | 11 September 2025 | 02 | Widget Flexible dan Expanded | [laporan 4](https://drive.google.com/file/d/1JYe7TeYQnOE_pKQqDSIXEshLdVp7qEHF/view?usp=sharing)  |
+|  5 | 18 September 2025 | 03 | Widget SizedBox, Spacer, dan Card | [laporan 5](https://drive.google.com/file/d/1R6LtIzdbhBpvsIEpmokdg2xdxTX9kGfm/view?usp=sharing)  |
+|  6 | 18 September 2025 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [laporan 6](https://drive.google.com/file/d/1rcekZfJ8hSgXCINj1_rwOnM3PrEsDyzE/view?usp=sharing)  |
