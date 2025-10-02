@@ -13,3 +13,4 @@ Pengumpulan Tugas Praktikum:
 |  6 | 18 September 2025 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [laporan 6](https://drive.google.com/file/d/1rcekZfJ8hSgXCINj1_rwOnM3PrEsDyzE/view?usp=sharing)  |
 |  7 | 25 September 2025 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [laporan 7](https://drive.google.com/file/d/1hzkRpOGpfi-JKdeeOWBZUbvVxQvGOMub/view?usp=sharing)  |
 |  8 | 25 September 2025 | 04 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [laporan 8](https://drive.google.com/file/d/1ifyuBJPBL3jI95uBdEMZmXGNf7_CCqR0/view?usp=drive_link)  |
+|  9 | 02 Oktober 2025 | 04 | StatefulWidget | [laporan 9](https://drive.google.com/file/d/1FpK9ip-3UOxA6yE6FRXlHw5FVYKCqKpv/view?usp=sharing)  |
