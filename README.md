@@ -11,6 +11,7 @@ Pengumpulan Tugas Praktikum:
 |  4 | 11 September 2025 | 02 | Widget Flexible dan Expanded | [laporan 4](https://drive.google.com/file/d/1JYe7TeYQnOE_pKQqDSIXEshLdVp7qEHF/view?usp=sharing)  |
 |  5 | 18 September 2025 | 03 | Widget SizedBox, Spacer, dan Card | [laporan 5](https://drive.google.com/file/d/1R6LtIzdbhBpvsIEpmokdg2xdxTX9kGfm/view?usp=sharing)  |
 |  6 | 18 September 2025 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [laporan 6](https://drive.google.com/file/d/1rcekZfJ8hSgXCINj1_rwOnM3PrEsDyzE/view?usp=sharing)  |
-|  7 | 25 September 2025 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [laporan 7](https://drive.google.com/file/d/1hzkRpOGpfi-JKdeeOWBZUbvVxQvGOMub/view?usp=sharing)  |
-|  8 | 25 September 2025 | 04 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [laporan 8](https://drive.google.com/file/d/1ifyuBJPBL3jI95uBdEMZmXGNf7_CCqR0/view?usp=drive_link)  |
-|  9 | 02 Oktober 2025 | 04 | StatefulWidget | [laporan 9](https://drive.google.com/file/d/1FpK9ip-3UOxA6yE6FRXlHw5FVYKCqKpv/view?usp=sharing)  |
+|  7 | 25 September 2025 | 05 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [laporan 7](https://drive.google.com/file/d/1hzkRpOGpfi-JKdeeOWBZUbvVxQvGOMub/view?usp=sharing)  |
+|  8 | 25 September 2025 | 05 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [laporan 8](https://drive.google.com/file/d/1ifyuBJPBL3jI95uBdEMZmXGNf7_CCqR0/view?usp=drive_link)  |
+|  9 | 02 Oktober 2025 | 06 | StatefulWidget | [laporan 9](https://drive.google.com/file/d/1FpK9ip-3UOxA6yE6FRXlHw5FVYKCqKpv/view?usp=sharing)  |
+|  10 | 09 Oktober 2025 | 07 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [laporan 10](https://drive.google.com/file/d/1hmXCwFNSOsoP0ve8GChqJUG25d3FTovP/view?usp=sharing)  |
