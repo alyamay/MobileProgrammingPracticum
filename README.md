@@ -16,3 +16,4 @@ Pengumpulan Tugas Praktikum:
 |  9 | 02 Oktober 2025 | 05 | StatefulWidget | [laporan 9](https://drive.google.com/file/d/1FpK9ip-3UOxA6yE6FRXlHw5FVYKCqKpv/view?usp=sharing)  |
 |  10 | 09 Oktober 2025 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [laporan 10](https://drive.google.com/file/d/1hmXCwFNSOsoP0ve8GChqJUG25d3FTovP/view?usp=sharing)  |
 |  11 | 16 Oktober 2025 | 07 | Manajemen State dengan GetX | [laporan 11](https://drive.google.com/file/d/15wZU8zgdz7oAcZzzTOuB6xfmBAd_fydI/view?usp=sharing)  |
+|  12 | 06 November 2025 | 08 | Akses Lokasi dengan GPS di Flutter | [laporan 12](https://drive.google.com/file/d/1LjmCLj1b87-XPwQQ2iVCSmxCTPLYDCnL/view?usp=sharing)  |
