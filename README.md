@@ -17,3 +17,5 @@ Pengumpulan Tugas Praktikum:
 |  10 | 09 Oktober 2025 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [laporan 10](https://drive.google.com/file/d/1hmXCwFNSOsoP0ve8GChqJUG25d3FTovP/view?usp=sharing)  |
 |  11 | 16 Oktober 2025 | 07 | Manajemen State dengan GetX | [laporan 11](https://drive.google.com/file/d/15wZU8zgdz7oAcZzzTOuB6xfmBAd_fydI/view?usp=sharing)  |
 |  12 | 06 November 2025 | 08 | Akses Lokasi dengan GPS di Flutter | [laporan 12](https://drive.google.com/file/d/1LjmCLj1b87-XPwQQ2iVCSmxCTPLYDCnL/view?usp=sharing)  |
+|  13 | 13 November 2025 | 09 | Location Flutter | [laporan 13](https://drive.google.com/file/d/1WqOaS8Q1OUjPJsFpSiz0ljbixgl4DQ15/view?usp=sharing)  |
+|  14 | 20 November 2025 | 10 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [laporan 14](https://drive.google.com/file/d/1jVdZln-NSczQ-5N3b8n2l6m2mzNvfzkB/view?usp=sharing)  |
